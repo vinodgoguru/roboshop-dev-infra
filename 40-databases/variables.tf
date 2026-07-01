@@ -11,7 +11,7 @@ variable "zone_id" {
 }  
 
 variable "domain_name" {
-    default = "daws90s.shop"
+    default = "vijaash.online"
 }
 
 variable "mysql_root_password" {

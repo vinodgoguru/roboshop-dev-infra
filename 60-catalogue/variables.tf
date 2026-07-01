@@ -11,9 +11,9 @@ variable "app_version" {
 }
 
 /* variable "zone_id" {
-    default = "Z07086101C1CVP7AT2UK4"
+    default = "Z0092557160TJGYZRJVWJ"
 }  
 
 variable "domain_name" {
-    default = "daws90s.shop"
+    default = "vijaansh.online"
 } */
